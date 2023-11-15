@@ -408,9 +408,9 @@
 }
 
 
-/*.edx{
+.edx{
     display:none;
-}*/
+}
 
 .hackerrank{
     display:none;
@@ -490,14 +490,14 @@
 
 .actives{
     color:black;
-    background-color:rgb(48, 169, 217);
-    border:1px solid rgb(48, 169, 217);
+    background-color:rgb(230, 236, 238);
+    border:1px solid rgb(243, 245, 246);
 }
 
 /* for js logic all sections are hidden */
-/*.as{
+.as{
     display:none;
-}*/
+}
 
 .ps{
     display:none;
